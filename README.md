@@ -1,6 +1,6 @@
 URL Shortner
 
-A multi-tenant URL shortener built with Laravel, where:
+A multi URL shortener built with Laravel, where:
 
 - There can be multiple **companies**
 - Each company has multiple **users**
@@ -93,6 +93,7 @@ Make sure you have the following installed:
 - **Composer**
 - **MySQL** 
 - **Node.js & NPM**
+- **XAMAPP**
 - **Git** (optional but recommended)
 
 ---
@@ -131,3 +132,4 @@ php artisan serve
 
 The app will usually be available at:
 **http://127.0.0.1:8000**
+
